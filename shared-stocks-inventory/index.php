@@ -12,7 +12,7 @@
 
 
 function echo_new_message(){
-	echo 'Birth of new Wordpress Plugin';
+	echo 'Birth of new Wordpress Plugin is here';
                                    
 };
 add_action('init', 'echo_new_message');
